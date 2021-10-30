@@ -1,6 +1,6 @@
 # PyQt_GUIs
 Recently I started to learn creating GUIs through PyQt5 Module in Python.
-I have two projects in my that I want to develop; they are kind of similar because 
+I have two projects in mind that I want to develop; they are kind of similar because 
 their main purpose is to be an interface to populate a database. I think that by creating 
 would be easier to carry out this a little bit boring task.
 
